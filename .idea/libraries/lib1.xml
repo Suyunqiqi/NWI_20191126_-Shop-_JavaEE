@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/ck4test/web/WEB-INF/lib" />
+      <root url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.0.M13/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../apache-tomcat-9.0.0.M13/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/ck4test/web/WEB-INF/lib" recursive="false" />
+  </library>
+</component>

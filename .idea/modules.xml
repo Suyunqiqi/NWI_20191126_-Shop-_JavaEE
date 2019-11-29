@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NWI_20191126_(Shop)_JavaEE.iml" filepath="$PROJECT_DIR$/NWI_20191126_(Shop)_JavaEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ck4test/ck4test.iml" filepath="$PROJECT_DIR$/ck4test/ck4test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopcart/shopcart.iml" filepath="$PROJECT_DIR$/shopcart/shopcart.iml" />
+    </modules>
+  </component>
+</project>
